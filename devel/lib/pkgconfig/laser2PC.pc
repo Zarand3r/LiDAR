@@ -1,0 +1,8 @@
+prefix=/home/amanda/catkin_ws/devel
+
+Name: laser2PC
+Description: Description of laser2PC
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/amanda/catkin_ws/devel/lib 
+Requires: 

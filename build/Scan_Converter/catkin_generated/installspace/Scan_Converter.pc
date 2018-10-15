@@ -1,0 +1,8 @@
+prefix=/home/amanda/catkin_ws/install
+
+Name: Scan_Converter
+Description: Description of Scan_Converter
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/amanda/catkin_ws/install/lib 
+Requires: 
